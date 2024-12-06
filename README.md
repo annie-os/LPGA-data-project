@@ -46,10 +46,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -57,7 +53,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/annie-os/LPGA-data-project/issues) for a full planned roadmap and the current scope of the project.
+See the [open issues](https://github.com/annie-os/LPGA-data-project/issues) for a planned roadmap and the current scope of the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -81,7 +77,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Links](https://kyte.bio/annie) - annieweb@proton.me
+[Links](https://kyte.bio/annie) - annieweb@proton.me
 
 Project Link: [https://github.com/annie-os/LPGA-data-project](https://github.com/annie-os/LPGA-data-project)
 
