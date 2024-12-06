@@ -54,27 +54,10 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/annie-os/LPGA-data-project/issues) for a full planned roadmap and the current scope of the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,14 +70,6 @@ If you have a suggestion that would make this better, please contact me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Top contributors:
-
-<a href="https://github.com/github_username/repo_name/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
-</a>
-
-
-
 <!-- LICENSE -->
 ## License
 
@@ -103,23 +78,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@Links](https://kyte.bio/annie) - annieweb@proton.me
+Your Name - [Links](https://kyte.bio/annie) - annieweb@proton.me
 
 Project Link: [https://github.com/annie-os/LPGA-data-project](https://github.com/annie-os/LPGA-data-project)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
